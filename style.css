@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color:#66BFBF
+}
+
+.ele{
+    display: inline-block;
+    position: relative;
+    bottom: 190px;
+    right: 80px;
+    
+}
+
+.deli{
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+}
+.del{
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+    left: 360px;
+}
+
+h3{
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.container{
+    background-color: #E4F9F5;
+}
+.topc{
+    position: relative;
+    left: 400px;
+    padding-top: 90px;
+}
+.bottomc{
+    position: absolute;
+}
+.pic{
+    border-radius: 100%;
+    height: 150px;
+    width: 140px;
+    margin-top: 30px;
+}
+.web{
+    border-radius: 100%;
+    width: 50%;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.ece{
+    border-radius: 100%;
+    width: 50%;
+    margin-left: 500px;
+}
+
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(13, 15, 15);
+}
+
+.footer-link{
+    padding: 50px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 8px;
+    margin: 3% 47%;
+    border-color: gray;
+}
+
+.profile{
+    margin-bottom: 160px;
+}
+
+.skills{
+    margin-top: 100px;
+}
+
+.contact-me{
+    margin-top: 110px;
+}
+
+.copy{
+    margin-top: 30px;
+    color: #EAF6F6;
+}
+
+.conio{
+    padding-top: 50px;
+    background-color: #66BFBF;
+    margin-top: 100px;
+    width: 100%;
+    height: 110px;
+}
+span{
+    position: relative;
+    bottom: 10px;
+}
+
+.btn{
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+}
